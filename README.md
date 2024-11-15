@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shubhangi Thakre
 - 👀 I’m interested in Data Science And Data Analyst Industry
 - 🌱 I’m currently learning Data Science with Python Language.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Email Id:thakreshubhangi842@gmail.com
 - Linkendin Profile: 
 www.linkedin.com/in/shubhangi-thakre-842045298
