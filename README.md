@@ -70,23 +70,8 @@ I enjoy working across the complete data lifecycle—from ingestion and transfor
 
 ### Open To
 
-✔ Data Engineer
+✔ Data Engineer ✔ AI Engineer ✔ Machine Learning Engineer ✔ Analytics Engineer ✔ Business Intelligence Developer ✔ Data Analyst  ✔ FinTech Technology
 
-✔ AI Engineer
-
-✔ Machine Learning Engineer
-
-✔ Analytics Engineer
-
-✔ Business Intelligence Developer
-
-✔ Data Analyst
-
-✔ Backend Developer (Python)
-
-✔ Open Source Collaboration
-
-✔ Enterprise Product Engineering
 
 ---
 
